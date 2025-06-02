@@ -1,5 +1,6 @@
-## 🧠While both papers aim to accelerate the IC design process by predicting parasitic effects before layout, they differ in scope and methodology.
+## 🧠 Intriduction
 
+While both papers aim to accelerate the IC design process by predicting parasitic effects before layout, they differ in scope and methodology.
 Official implementation of the following papers:
 
 - **Deep-Learning-Based Pre-Layout Parasitic Capacitance Prediction on SRAM Designs**

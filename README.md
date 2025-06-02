@@ -7,11 +7,16 @@ Official implementation of the following papers:
 
 This repository provides the code and dataset for reproducing the results from the above papers. The approach utilizes Graph Neural Networks (GNNs) to predict parasitic capacitance and device parameters before physical layout, accelerating the design process for SRAM and other circuits.
 
-## 📄 Papers
+## 💻 Installation
 
-- 📘 [Paper 1: Deep-Learning-Based Pre-Layout Parasitic Capacitance Prediction on SRAM Designs](#) *(link coming soon or to be added)*
-- 📘 [Paper 2: ParaGraph: Layout Parasitics and Device Parameter Prediction using GNNs](#) *(link coming soon or to be added)*
+### Prerequisites
 
+- Python 3.10+
+- CUDA-compatible GPU (recommended)
+
+### Setup Instructions
+
+```bash
 # Clone the repository
 git clone https://github.com/username/dlpl.git
 cd dlpl
@@ -19,7 +24,6 @@ cd dlpl
 # Create and activate a conda environment
 conda create -n dlpl python=3.10
 conda activate dlpl
-
 # Install dependencies
 pip install -r requirements.txt
 ```

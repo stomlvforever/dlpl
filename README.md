@@ -45,6 +45,7 @@ cd dlpl
 # Create and activate a conda environment
 conda create -n dlpl python=3.10
 conda activate dlpl
+
 # Install dependencies
 pip install -r requirements.txt
 ```

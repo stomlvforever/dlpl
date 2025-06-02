@@ -49,6 +49,13 @@ The datasets used for training and testing CircuitGCL are available for download
 | SANDWICH-RAM    | Sandwich RAM dataset                 | [Download](https://circuitgcl-sram.s3.ap-southeast-2.amazonaws.com/raw/sandwich.pt)        |
 | SP8192W         | Specialized 8192 Width dataset       | [Download](https://circuitgcl-sram.s3.ap-southeast-2.amazonaws.com/raw/sp8192w.pt)         |
 
+### Dataset path
+After downloading the above dataset, please add its path into the dataset_dir='' field in the main.py function.
+```bash
+
+dataset_dir=''
+···
+
 ## 📖 Citation
 
 If you find this work useful in your research, please cite:

@@ -59,7 +59,6 @@ If you find this work useful in your research, please cite:
   booktitle = {Proceedings of the Great Lakes Symposium on VLSI (GLSVLSI)},
   year      = {2024},
   publisher = {ACM},
-  address   = {Clearwater, FL, USA},
   doi       = {10.1145/3649476.3658754},
   isbn      = {979-8-4007-0605-9/24/06}
 }

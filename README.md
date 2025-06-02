@@ -1,3 +1,8 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-310/)
+[![PyTorch 2.2.0](https://img.shields.io/badge/PyTorch-2.2.0-red)](https://pytorch.org/get-started/previous-versions/#v220)
+[![PyG 2.6.1](https://img.shields.io/badge/PyG-2.6.1-orange)](https://pytorch-geometric.readthedocs.io/en/2.6.1/)
+
 ## 📑 Table of Contents
 
 - [Introduction](#-introduction)

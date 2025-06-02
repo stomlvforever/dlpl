@@ -1,7 +1,12 @@
-# dlpl
-Official implementation of the paper "Deep-Learning-Based Pre-Layout Parasitic Capacitance Prediction on SRAM Designs".
-Official implementation of the paper "ParaGraph: Layout Parasitics and Device Parameter Prediction using Graph Neural Networks
-```bash".
+# 🧠 ParaGraph: Pre-Layout Parasitics and Device Parameter Prediction
+
+Official implementation of the following papers:
+
+- **Deep-Learning-Based Pre-Layout Parasitic Capacitance Prediction on SRAM Designs**
+- **ParaGraph: Layout Parasitics and Device Parameter Prediction using Graph Neural Networks**
+
+This repository provides the code and dataset for reproducing the results from the above papers. The approach utilizes Graph Neural Networks (GNNs) to predict parasitic capacitance and device parameters before physical layout, accelerating the design process for SRAM and other circuits.
+
 # Clone the repository
 git clone https://github.com/username/dlpl.git
 cd dlpl

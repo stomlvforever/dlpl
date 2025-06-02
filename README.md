@@ -7,7 +7,8 @@ Official implementation of the following papers:
 - **ParaGraph: Layout Parasitics and Device Parameter Prediction using Graph Neural Networks**
 
 This repository provides the code and dataset for reproducing the results from the above papers. The approach utilizes Graph Neural Networks (GNNs) to predict parasitic capacitance and device parameters before physical layout, accelerating the design process for SRAM and other circuits.
-###Download the papers
+
+### Download the papers
 
 Deep-Learning-Based Pre-Layout Parasitic Capacitance Prediction on SRAM Designs
 

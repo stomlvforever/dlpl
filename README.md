@@ -15,7 +15,8 @@
 - [Framework Components](#framework-components)
 - [Citation](#-citation)
 - [License](#-license)
-- 
+
+
 ## 🧠 Introduction
 
 While both papers aim to accelerate the IC design process by predicting parasitic effects before layout, they differ in scope and methodology.

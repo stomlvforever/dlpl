@@ -28,6 +28,14 @@ conda activate dlpl
 pip install -r requirements.txt
 ```
 
+## 🚀 Usage
+
+### Dataset Preparation
+
+#### Dataset Download Instructions
+
+The datasets used for training and testing CircuitGCL are available for download via the following links. You can use `curl` to directly download these files from the provided URLs.
+
 ##### List of Datasets
 
 | Dataset Name    | Description                          | Download Link                                                                              |
@@ -39,7 +47,6 @@ pip install -r requirements.txt
 | ULTRA8T         | Ultra 8 Transistor dataset           | [Download](https://circuitgcl-sram.s3.ap-southeast-2.amazonaws.com/raw/ultra8t.pt)         |
 | SANDWICH-RAM    | Sandwich RAM dataset                 | [Download](https://circuitgcl-sram.s3.ap-southeast-2.amazonaws.com/raw/sandwich.pt)        |
 | SP8192W         | Specialized 8192 Width dataset       | [Download](https://circuitgcl-sram.s3.ap-southeast-2.amazonaws.com/raw/sp8192w.pt)         |
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.

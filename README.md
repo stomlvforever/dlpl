@@ -47,6 +47,24 @@ The datasets used for training and testing CircuitGCL are available for download
 | ULTRA8T         | Ultra 8 Transistor dataset           | [Download](https://circuitgcl-sram.s3.ap-southeast-2.amazonaws.com/raw/ultra8t.pt)         |
 | SANDWICH-RAM    | Sandwich RAM dataset                 | [Download](https://circuitgcl-sram.s3.ap-southeast-2.amazonaws.com/raw/sandwich.pt)        |
 | SP8192W         | Specialized 8192 Width dataset       | [Download](https://circuitgcl-sram.s3.ap-southeast-2.amazonaws.com/raw/sp8192w.pt)         |
+
+## 📖 Citation
+
+If you find this work useful in your research, please cite:
+
+```bibtex
+@inproceedings{shen2024prelayout,
+  title     = {Deep-Learning-Based Pre-Layout Parasitic Capacitance Prediction on SRAM Designs},
+  author    = {Shan Shen and Dingcheng Yang and Yuyang Xie and Chunyan Pei and Wenjian Yu and Bei Yu},
+  booktitle = {Proceedings of the Great Lakes Symposium on VLSI (GLSVLSI)},
+  year      = {2024},
+  publisher = {ACM},
+  address   = {Clearwater, FL, USA},
+  doi       = {10.1145/3649476.3658754},
+  isbn      = {979-8-4007-0605-9/24/06}
+}
+
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.

@@ -87,7 +87,7 @@ if __name__ == "__main__":
     # 加载训练集
     train_dataset = performat_SramDataset(
         name=args.train_dataset, 
-        dataset_dir='/local/hsl/datasets-dlpl', 
+        dataset_dir='', 
         neg_edge_ratio=0.3,
         to_undirected=args.to_undirected,
         sample_rates=args.train_sample_rate,
@@ -97,7 +97,7 @@ if __name__ == "__main__":
     # 加载测试集
     test_dataset = performat_SramDataset(
         name=args.test_dataset, 
-        dataset_dir='/local/hsl/datasets-dlpl', 
+        dataset_dir='', 
         neg_edge_ratio=0.3,
         to_undirected=args.to_undirected,
         sample_rates=args.test_sample_rate,

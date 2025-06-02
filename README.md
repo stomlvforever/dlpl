@@ -1,5 +1,5 @@
 # dlpl
-
+Official implementation of the paper "Deep-Learning-Based Pre-Layout Parasitic Capacitance Prediction on SRAM Designs".
 ```bash
 # Clone the repository
 git clone https://github.com/username/dlpl.git

@@ -1,9 +1,16 @@
 While both papers aim to accelerate the IC design process by predicting parasitic effects before layout, they differ in scope and methodology.
 
-- The **first paper** focuses on SRAM circuits and introduces a baseline deep-learning approach.
-- The **second paper** generalizes the problem with a unified Graph Neural Network framework, ParaGraph, capable of predicting a wider range of parameters on various circuit types.
+Official implementation of the following papers:
+
+- **Deep-Learning-Based Pre-Layout Parasitic Capacitance Prediction on SRAM Designs**
+- **ParaGraph: Layout Parasitics and Device Parameter Prediction using Graph Neural Networks**
 
 This repository provides the code and dataset for reproducing the results from the above papers. The approach utilizes Graph Neural Networks (GNNs) to predict parasitic capacitance and device parameters before physical layout, accelerating the design process for SRAM and other circuits.
+
+## 📄 Papers
+
+- 📘 [Paper 1: Deep-Learning-Based Pre-Layout Parasitic Capacitance Prediction on SRAM Designs](#) *(link coming soon or to be added)*
+- 📘 [Paper 2: ParaGraph: Layout Parasitics and Device Parameter Prediction using GNNs](#) *(link coming soon or to be added)*
 
 # Clone the repository
 git clone https://github.com/username/dlpl.git
